@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-04T19:05:36 IST" name="Default suite" finished-at="2024-05-04T19:05:58 IST" duration-ms="21679">
+    <groups>
+    </groups>
+    <test started-at="2024-05-04T19:05:36 IST" name="Default test" finished-at="2024-05-04T19:05:58 IST" duration-ms="21679">
+      <class name="practice_Automation.Launch_Chrome_Browser">
+        <test-method signature="forgotPassword()[pri:0, instance:practice_Automation.Launch_Chrome_Browser@4a883b15]" started-at="2024-05-04T19:05:36 IST" name="forgotPassword" finished-at="2024-05-04T19:05:44 IST" duration-ms="8463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPassword -->
+        <test-method signature="password()[pri:0, instance:practice_Automation.Launch_Chrome_Browser@4a883b15]" started-at="2024-05-04T19:05:44 IST" name="password" finished-at="2024-05-04T19:05:51 IST" duration-ms="7009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method signature="webdriver()[pri:0, instance:practice_Automation.Launch_Chrome_Browser@4a883b15]" started-at="2024-05-04T19:05:51 IST" name="webdriver" finished-at="2024-05-04T19:05:58 IST" duration-ms="6154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webdriver -->
+      </class> <!-- practice_Automation.Launch_Chrome_Browser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
