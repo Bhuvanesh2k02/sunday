@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="practice_Automation.Launch_Chrome_Browser">
+      <class name="practice_Automation.Demo_Shopping_Website">
         <methods>
-          <include name="password"/>
+          <include name="demoShop"/>
         </methods>
-      </class> <!-- practice_Automation.Launch_Chrome_Browser -->
+      </class> <!-- practice_Automation.Demo_Shopping_Website -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
