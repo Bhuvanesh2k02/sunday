@@ -5,7 +5,7 @@
     <classes>
       <class name="practice_Automation.Demo_Shopping_Website">
         <methods>
-          <include name="demoShop"/>
+          <include name="dropdown"/>
         </methods>
       </class> <!-- practice_Automation.Demo_Shopping_Website -->
     </classes>
